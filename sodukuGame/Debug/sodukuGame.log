@@ -1,0 +1,3 @@
+﻿  sodukuGame.cpp
+C:\Users\bengo\Desktop\CS Test Projects\sodukuGame\sodukuGame.cpp(45): warning C4715:  'isSafe': not all control paths return a value
+  sodukuGame.vcxproj -> C:\Users\bengo\Desktop\CS Test Projects\sodukuGame\Debug\sodukuGame.exe
